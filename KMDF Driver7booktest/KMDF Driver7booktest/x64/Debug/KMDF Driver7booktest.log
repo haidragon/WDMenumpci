@@ -1,0 +1,23 @@
+﻿  Building 'KMDF Driver7booktest' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\KMDFDriver7booktest.inf
+  Stamping [Version] section with DriverVer=11/16/2018,13.15.38.183
+  entry.c
+  KMDF Driver7booktest.vcxproj -> D:\users\lhl.liu\documents\test\KMDF Driver7booktest\x64\Debug\KMDFDriver7booktest.sys
+  KMDF Driver7booktest.vcxproj -> D:\users\lhl.liu\documents\test\KMDF Driver7booktest\x64\Debug\KMDFDriver7booktest.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: D:\users\lhl.liu\documents\test\KMDF Driver7booktest\x64\Debug\KMDFDriver7booktest.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\users\lhl.liu\documents\test\KMDF Driver7booktest\x64\Debug\KMDF Driver7booktest\kmdfdriver7booktest.cat
+  Done Adding Additional Store
+  Successfully signed: D:\users\lhl.liu\documents\test\KMDF Driver7booktest\x64\Debug\KMDF Driver7booktest\kmdfdriver7booktest.cat
+  

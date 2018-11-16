@@ -1,0 +1,8 @@
+﻿  Building 'Driver5test' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\Driver5test.inf
+  Stamping [Version] section with DriverVer=11/16/2018,13.27.11.394
+  entry.c
+entry.c(211): warning C4133: “函数”: 从“INT [4]”到“PCHAR”的类型不兼容
+entry.c(212): warning C4133: “函数”: 从“INT [4]”到“PCHAR”的类型不兼容
+  Driver5test.vcxproj -> D:\users\lhl.liu\documents\test\Driver5test\x64\Debug\Driver5test.sys
+  Driver5test.vcxproj -> D:\users\lhl.liu\documents\test\Driver5test\x64\Debug\Driver5test.pdb (Full PDB)
